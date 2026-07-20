@@ -1,0 +1,26 @@
+---
+id: instagram/post-205
+title: "Archive Post 205"
+status: published
+tags: [satellite, instagram]
+---
+
+# Archive Post Part 205
+
+### Caption:
+```
+This elephant from @thewaystation is having a heck of a time. #drawmeanelephant
+```
+
+![Drawing](./post-205.assets/67762738_482490135865827_5959673931068188043_n_17858185513518908.jpg)
+
+![Drawing](./post-205.assets/69264969_157783898742409_4193263160195007296_n_18096462052060167.jpg)
+
+![Drawing](./post-205.assets/67797582_191176421881580_7725261008941452544_n_17992309153270310.jpg)
+
+![Drawing](./post-205.assets/69339805_408140619808732_2022347926864354865_n_18095852935025371.jpg)
+
+![Drawing](./post-205.assets/69484626_174099690302282_920818653087178479_n_18096599551026763.jpg)
+
+![Drawing](./post-205.assets/70268267_654228578431950_5598653641493462003_n_18092290690069883.jpg)
+

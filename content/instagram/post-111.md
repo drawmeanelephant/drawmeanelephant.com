@@ -1,0 +1,16 @@
+---
+id: instagram/post-111
+title: "Archive Post 111"
+status: published
+tags: [satellite, instagram]
+---
+
+# Archive Post Part 111
+
+### Caption:
+```
+Also @twobeersbrewing drawn elephant. Held up better to the moisture but still pretty well trashed with ink from the other elephant.
+
+It took me a second to pick up on the “who is Todd?” and I had to reread my letter. The answer to “who is Todd?” is anyone who actually answers honestly to a police officer about number of drinks they had. The answer whenever a police officer asks how many beers you had is “two”. I’ve heard that answer a lot and had a friend not get a breathalyzer with that answer after absolutely totalling his car. It was somewhat honest an answer because he did drink a number divisible by 2. #drawmeanelephant
+```
+

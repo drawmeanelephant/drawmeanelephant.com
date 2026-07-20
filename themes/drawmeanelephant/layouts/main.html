@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en" data-theme="drawmeanelephant" data-layout="main">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{title}}</title>
+  <link rel="stylesheet" href="{{asset-url assets/drawmeanelephant.css}}">
+</head>
+<body>
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <div class="container">
+    <header class="site-header" role="banner">
+      <div class="header-sketch-wrapper">
+        <p class="site-title"><a href="index.html">Draw Me An Elephant 🐘</a></p>
+        <p class="site-tagline">Timothy's quest to get breweries of the world to draw him elephants</p>
+      </div>
+      {{breadcrumb}}
+    </header>
+    <div class="layout-wrapper">
+      <main id="main-content" class="site-main" tabindex="-1">
+        {{metadata}}
+        {{toc}}
+        <article class="entry">
+          <div class="entry-content prose">
+            {{content}}
+          </div>
+        </article>
+        {{children}}
+      </main>
+      <aside class="site-sidebar" aria-label="Sidebar">
+        <div class="sidebar-module">
+          <h3>Table of Contents</h3>
+          {{nav}}
+        </div>
+      </aside>
+    </div>
+    <footer class="site-footer theme-footer" role="contentinfo">
+      {{footer}}
+    </footer>
+  </div>
+</body>
+</html>
