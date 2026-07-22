@@ -29,11 +29,11 @@ link: https://www.drawmeanelephant.com/tower-brewing/
 conversion: human_review
 -->
 
-<figure class="wp-block-image">![Elephant from Tower Brewing](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-05-01-0008-1024x848.jpg)<figcaption>Awesome elephant drawn by Tower Brewing around April 20th.</figcaption></figure>
+<figure class="wp-block-image">![Elephant from Tower Brewing](tower-brewing.assets/2019-05-01-0008-1024x848.jpg)<figcaption>Awesome elephant drawn by Tower Brewing around April 20th.</figcaption></figure>
 
 Okay so these guys at [Tower Brewing](http://www.towerbrewingcompany.com). and pretty much a whole ton of Sacramento area breweries all would have got letters around the same time, which was April 20th. I think that California is one of those states where marijuana is legal, so it may get a pass for that. Not sure if the legislation says it's legal for elephants, but he may have glaucoma or something and we all know California is all about that [medical card](https://www.youtube.com/watch?v=CRm1yqSmsGY). Fairly great elephant and they sent in a bonus elephant, which I'm not sure if is the same elephant before smoking the righteous herb or a different elephant.
 
-<figure class="wp-block-image">![Elephant from Cloud Alchemist](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-05-01-0009-1024x776.jpg)<figcaption>Side view elephant from Tower Brewing.</figcaption></figure>
+<figure class="wp-block-image">![Elephant from Cloud Alchemist](tower-brewing.assets/2019-05-01-0009-1024x776.jpg)<figcaption>Side view elephant from Tower Brewing.</figcaption></figure>
 
 #### California Rules
 

@@ -20,7 +20,7 @@ link: https://www.drawmeanelephant.com/kumas-corner/
 conversion: human_review
 -->
 
-<figure class="wp-block-image">![Elephant drawing](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-23-0001-1024x630.jpg)<figcaption>Elephant drawn by Kuma's Corner Chicago location</figcaption></figure>
+<figure class="wp-block-image">![Elephant drawing](kumas-corner.assets/2019-06-23-0001-1024x630.jpg)<figcaption>Elephant drawn by Kuma's Corner Chicago location</figcaption></figure>
 
 Got this elephant recently from Kuma's Corner out of Chicago. I'm really bad at context and there could be a lot of questions that end up coming up that would arise from how I was going to approach explaining this one and I feel like maybe that will have to turn into a FAQ section. So my person who picks out the breweries I've wrote for maybe a couple months picked out a fairly lengthy (maybe 20 places) series of what were probably like bars, clubs, or restaurant type places that were not breweries. I don't really  know the basis for where they came from or the point but it's really all the same when you're asking them to draw you an elephant. This was ones of those addresses.
 
@@ -28,7 +28,7 @@ Kuma's Corner I looked up after the fact and is apparently a multiple location r
 
 Kuma's delivered though with a pretty typical style. Most common replies are elephant only and elephant with sticker. I've got letters before but that's super rare. I think I've maybe got three places to send more than one complete sentence and that's fine. The focus is the elephant and who boy howdy did Kuma's deliver. It's kind of metal and a new style of elephant that looked like it was done with maybe a gel pen or some sort of hybrid ink. Pretty saturated and a pretty decent pen, though not a personal preference of mine. I'd wager it's a work pen and I'm not gonna ramble too much more on that as I have a lot of these to put up and it's not Kuma-specific. So a pretty phenomenal metal sort of elephant and their sticker had a tagline about harshing mellows, which is an expression I've been a fan of for years as I had a coworker who used it for the better part of 15 years and that rubs off on you.
 
-<figure class="aligncenter is-resized">![Sticker from Kuma's Corner, Chicago](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-23-0002-1024x1016.jpg)<figcaption>I didn't do a very good job of rotating this.</figcaption></figure>
+<figure class="aligncenter is-resized">![Sticker from Kuma's Corner, Chicago](kumas-corner.assets/2019-06-23-0002-1024x1016.jpg)<figcaption>I didn't do a very good job of rotating this.</figcaption></figure>
 
 So the sticker was spot on also, which really brought the whole thing together. I'd say this is the perfect amount of reply for me. Whoever did the elephant did a great job and it was over the top only on quality of elephant drawing.
 

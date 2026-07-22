@@ -28,7 +28,7 @@ link: https://www.drawmeanelephant.com/iowa-distilling-company/
 conversion: human_review
 -->
 
-<figure class="wp-block-image">![Elephant drawn by Iowa Distilling Company](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-28-0001-1024x794.jpg)<figcaption>Elephant drawn by Iowa Distilling Company intern.</figcaption></figure>
+<figure class="wp-block-image">![Elephant drawn by Iowa Distilling Company](iowa-distilling-company.assets/2019-06-28-0001-1024x794.jpg)<figcaption>Elephant drawn by Iowa Distilling Company intern.</figcaption></figure>
 
 I don't remember exactly when I wrote these guys but I think I was doing a series of letters to places in that area and they ended up getting thrown in to the mix. As with most of the place I've written the addresses are given to me so I never know what to expect or the size of the outfit I'm writing and [Iowa Distilling Company](http://www.iowadistilling.com) was no exception. I haven't got anything back from the others I wrote then and think this was pretty recent, but it's hard to say at this point as I haven't conquered my backlog.
 

@@ -18,7 +18,7 @@ link: https://www.drawmeanelephant.com/2019/10/17/middle-of-october-update-coupl
 conversion: human_review
 -->
 
-<figure class="wp-block-image">![Elephant by Banded Brewing in Maine](https://www.drawmeanelephant.com/wp-content/uploads/2019/10/2019-10-16-0001-e1571282137124-1024x1000.jpg)<figcaption>Elephant drawn by Banded Brewing</figcaption></figure>
+<figure class="wp-block-image">![Elephant by Banded Brewing in Maine](middle-of-october-update-couple-new-elephants-site-rambling-as-per-usual.assets/2019-10-16-0001-e1571282137124-1024x1000.jpg)<figcaption>Elephant drawn by Banded Brewing</figcaption></figure>
 
 As usual start this off with an elephant I got yesterday from [Banded Brewing](https://bandedbrewing.com/) out of Maine. I wrote a whole pile of breweries in Maine and had absolutely no idea what I was getting into when I started. I know I have several as a result of writing but have been doing a really pisspoor job of documenting my successes with this project in terms of numbers beyond taking what I think is the total cost of my receipts from postage and dividing by two or estimating how many elephants I have based on Instagram post count or some other metric. I'm starting to get to the point at around 10% of all United States breweries written that I'm bumping into places I've written. So I really do need to do a better job with that organization and probably think a bit forward.
 

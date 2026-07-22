@@ -28,11 +28,11 @@ link: https://www.drawmeanelephant.com/turtle-swamp-brewing/
 conversion: human_review
 -->
 
-<figure class="wp-block-image">![elephant from Turtle Swamp](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-16-0001-1024x703.jpg)<figcaption>Elephant drawn by a Turtle Swamp Bartender</figcaption></figure>
+<figure class="wp-block-image">![elephant from Turtle Swamp](turtle-swamp-brewing.assets/2019-07-16-0001-1024x703.jpg)<figcaption>Elephant drawn by a Turtle Swamp Bartender</figcaption></figure>
 
 Well t[hese guys](https://turtleswampbrewing.com/) knocked it absolutely out of the ballpark with a fantastic elephant. We've seen something similar several times, but good touches with the little things: toenails, shading on the ears, variation with the tusks, the tail fur. It is all around a really great elephant and these guys are the second brewery to check the box of having their own stationery in the correspondence. I'm absolutely sure [Dogfish Head](https://www.dogfish.com/) has their own stationery, but they did not invoke it on the letters so far. Tony at [Columbus Brewing Company](https://www.columbusbrewing.com/) got the distinction as the first and is probably among the top in the industry for correspondence game.
 
-<figure class="wp-block-image">![](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-16-0002-802x1024.jpg)<figcaption>Letter from Turtle Swamp</figcaption></figure>
+<figure class="wp-block-image">![](turtle-swamp-brewing.assets/2019-07-16-0002-802x1024.jpg)<figcaption>Letter from Turtle Swamp</figcaption></figure>
 
 The letter from Allison really was nice. The stationery was a nice one color affair and I think it had a watermark. Didn't examine it closely as I'm trying to take the approach of put this stuff up immediately and perhaps reflect on it more later. I wrote a huge number of distilleries in the last two weeks and realized I'm still behind on getting the backlog of elephants. Though there is a lot to do in terms of playing catchup I'm feeling like I really need to continue getting the letters out first and foremost over posting to the site that maybe serves a dozen people, and poorly at that.
 

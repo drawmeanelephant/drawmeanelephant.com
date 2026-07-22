@@ -24,11 +24,11 @@ So I get notifications in my email form [Informed Delivery](https://informeddeli
 
 #### This is going to be probably long so I'll post the elephant first and if you want to read you can
 
-<figure class="wp-block-image">![Elephant drawn by Hammer Disttilers' JP Bernier](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-20-0001-1024x819.jpg)<figcaption>Elephant drawn by Hammer Disttilers' JP Bernier</figcaption></figure>
+<figure class="wp-block-image">![Elephant drawn by Hammer Disttilers' JP Bernier](hammer-spring-distillers.assets/2019-07-20-0001-1024x819.jpg)<figcaption>Elephant drawn by Hammer Disttilers' JP Bernier</figcaption></figure>
 
 First off there was a letter that actually was really good in blue ink that looked like from a pen that was probably more flow than the paper was good for (probably a gel pen of some sort, looked like .5 or finer and most likely 20# bond recycled office paper). It was super thoughtful and I may as well just put that in here so I can read it and do some stream of consciousness that makes it look more high effort.
 
-<figure class="wp-block-image">![](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-20-0004-736x1024.jpg)<figcaption>Letter from Hammer Spring Distillers that I read with my human eyes</figcaption></figure>
+<figure class="wp-block-image">![](hammer-spring-distillers.assets/2019-07-20-0004-736x1024.jpg)<figcaption>Letter from Hammer Spring Distillers that I read with my human eyes</figcaption></figure>
 
 Looks like something about elephant poaching and JP likes the elephant in [snek](https://knowyourmeme.com/memes/snek) drawing but didn't elect to do that and did something a little more 2019. Oh I forgot to mention that I did an entire three paragraphs that was much better written but forgot to save the draft and closed the page when grabbing a link. It was totally embarrassing but by typing that I sort of remembered. Score!
 
@@ -46,7 +46,7 @@ So I don't really expect anyone to put in nearly the effort that is into this on
 
 As I sain the FAQ section of my [Night Shift Brewing](https://www.drawmeanelephant.com/night-shift-brewing/) elephant article I usually give a phone call after I get the elephant and dispense with the formality of writing another letter (and 55¢ is money so that's probably more the reason). I got the letter a couple of hours ago so that would be right in the time I like to call a brewery or distillery (a bit before noon). Called this guy up and sure as can be the elephant drawer answered and was absurdly nice of a person. It reminded me when I was getting ready to type this that [Kuma's Corner](https://www.drawmeanelephant.com/kumas-corner/) was a spot I never called and just got off the phone with them. Holy shit they were nice and the lady when she inevitably had to cut me off said she had already blown off two customers. That's a great sense of priorities and even if she wasn't being totally honest about that I'm going to take her at her word. JP was super nice and had to attend to a customer, but I'm not going to give him any points off just because he was ridiculously good with all of the other aspects of the being thanked for the elephant drawing.
 
-<figure class="wp-block-image">![](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/Hammer.jpg)<figcaption>Sticker from Hammer Distillers</figcaption></figure>
+<figure class="wp-block-image">![](hammer-spring-distillers.assets/Hammer.jpg)<figcaption>Sticker from Hammer Distillers</figcaption></figure>
 
 #### 11/10 Would write again
 
