@@ -2,7 +2,7 @@
 
 Welcome to the static site repository for **[drawmeanelephant.com](https://www.drawmeanelephant.com)**. 
 
-This repository archives Timothy's legendary quest of writing to breweries all over the world and asking them to draw him an elephant. It consolidates WordPress blog updates, correspondence, drawings, letters, and miscellaneous Instagram takeouts into a single, cohesive, fully responsive, and beautifully themed static website.
+This repository archives the Draw Me An Elephant correspondence project: letters to breweries and other places, the drawings and replies that came back, WordPress updates, and miscellaneous Instagram takeouts.
 
 Built using **Boris**, the ultra-fast and strict static site compiler.
 
