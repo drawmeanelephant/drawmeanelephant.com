@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 24
 
-> **Relationship:** Explicit satellite of [Outer Light Brewery](breweries/outer-light-brewery.html)
+> **Relationship:** Explicit satellite of [Outer Light Brewery](/breweries/outer-light-brewery.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 1.0 (via curated_handle)
 

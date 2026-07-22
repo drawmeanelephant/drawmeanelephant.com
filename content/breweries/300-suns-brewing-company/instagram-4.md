@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 4
 
-> **Relationship:** Explicit satellite of [300 Suns Brewing Company](breweries/300-suns-brewing-company.html)
+> **Relationship:** Explicit satellite of [300 Suns Brewing Company](/breweries/300-suns-brewing-company.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 0.85 (via csv_hashtag)
 

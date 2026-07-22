@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 1
 
-> **Relationship:** Explicit satellite of [Tower Brewing](breweries/tower-brewing.html)
+> **Relationship:** Explicit satellite of [Tower Brewing](/breweries/tower-brewing.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 1.0 (via curated_handle)
 

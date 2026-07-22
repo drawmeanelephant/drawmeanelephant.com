@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 1
 
-> **Relationship:** Explicit satellite of [Chapel and Main](breweries/chapel-and-main.html)
+> **Relationship:** Explicit satellite of [Chapel and Main](/breweries/chapel-and-main.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 0.85 (via csv_hashtag)
 

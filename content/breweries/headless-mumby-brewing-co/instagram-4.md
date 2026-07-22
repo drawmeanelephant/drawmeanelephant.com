@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 4
 
-> **Relationship:** Explicit satellite of [Headless Mumby Brewing Co.](breweries/headless-mumby-brewing-co.html)
+> **Relationship:** Explicit satellite of [Headless Mumby Brewing Co.](/breweries/headless-mumby-brewing-co.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 0.85 (via csv_hashtag)
 
