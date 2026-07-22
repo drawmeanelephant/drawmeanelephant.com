@@ -29,7 +29,7 @@ link: https://www.drawmeanelephant.com/dry-river-brewing/
 conversion: human_review
 -->
 
-<figure class="wp-block-image alignfull">![elephant from Dry River Brewing](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-25-0005-e1564079038259-1024x452.jpg)<figcaption>Elephant Drawn by Aaron at or for [Dry River Brewing](https://www.dryriverbrewing.com/home)</figcaption></figure>
+<figure class="wp-block-image alignfull">![elephant from Dry River Brewing](dry-river-brewing.assets/2019-07-25-0005-e1564079038259-1024x452.jpg)<figcaption>Elephant Drawn by Aaron at or for [Dry River Brewing](https://www.dryriverbrewing.com/home)</figcaption></figure>
 
 Okay so [these guys](https://www.dryriverbrewing.com/home) knocked it right out of the ballpark with  some fantastic elephants. I'll get the cart way before the horse on this one and say that I wrote these guys what felt like quite awhile ago and in the course of decoding that mystery determined it was over 10 weeks ago as there was an [Instagram Post](https://www.instagram.com/p/BxiJKUbhbKh/) saying as much.
 
@@ -37,9 +37,9 @@ Each of these came on what feels like over 350 GSM card stock with some fancy ed
 
 #### Garrett's Elephant
 
-<figure class="wp-block-image">![elephant from Dry River Brewing](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-25-0003-1024x446.jpg)<figcaption>Elephant drawn by Garrett at or for Dry River Brewing</figcaption></figure>
+<figure class="wp-block-image">![elephant from Dry River Brewing](dry-river-brewing.assets/2019-07-25-0003-1024x446.jpg)<figcaption>Elephant drawn by Garrett at or for Dry River Brewing</figcaption></figure>
 
-<figure class="wp-block-image">![text from back of elephant from Dry River](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-25-0004-1024x469.jpg)<figcaption>Back of Garrett's Elephant</figcaption></figure>
+<figure class="wp-block-image">![text from back of elephant from Dry River](dry-river-brewing.assets/2019-07-25-0004-1024x469.jpg)<figcaption>Back of Garrett's Elephant</figcaption></figure>
 
 Garrett had a full explanation of the elephant and I feel like if he's not in marketing for the company he may need to get into a marketing role. I wasn't totally sold on the elephant from the get go but when I took a peer into its mind's eye I'm pretty sure I'm sold even though the back of my mind says you could remove this elephant's tusks and probably piss off a lot of people who don't like elephant's tusks being removed and have an armadillo.
 
@@ -47,17 +47,17 @@ You'd probably want to inform them that it is just a drawing of an elephant and 
 
 #### rhoxrose's Elephant
 
-<figure class="wp-block-image">![elephant from Dry River Brewing](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-25-0001-451x1024.jpg)<figcaption>Elephant drawn by @rhoxrose for Dry River Brewing</figcaption></figure>
+<figure class="wp-block-image">![elephant from Dry River Brewing](dry-river-brewing.assets/2019-07-25-0001-451x1024.jpg)<figcaption>Elephant drawn by @rhoxrose for Dry River Brewing</figcaption></figure>
 
 Okay so [@rhoxrose](https://www.instagram.com/rhoxrose/) drew this one and did a fantastic job. I went to the trouble of googleing this one and found the instagram and didn't go too much deeper than that. Absolutely fine combination of all the brewery logo stuff along with cuteness. She did a really great job on it and immediately all I could think was that the elephant is totally out of my league with the amount of effort in the eyeliner. If I was a drawn elephant at the bar I'd definitely not have the confidence to approach this elephant and that may be because with the monkey on her back drinking wine I'm getting some strong feelings that with that many wingmen it's best to find an easier target, like maybe [the elephant from Magic Hat earlier this week](https://www.drawmeanelephant.com/2019-07-22-0001/) (not the thicc bootied one).
 
-<figure class="wp-block-image">![](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-25-0002-452x1024.jpg)<figcaption>[@rhoxrose's](https://www.instagram.com/rhoxrose/) notes on back of elephant drawing.</figcaption></figure>
+<figure class="wp-block-image">![](dry-river-brewing.assets/2019-07-25-0002-452x1024.jpg)<figcaption>[@rhoxrose's](https://www.instagram.com/rhoxrose/) notes on back of elephant drawing.</figcaption></figure>
 
 The back of this one I'm not sure if it's going for a backstory or explanation. It's pretty tremendous on its own and in the amount of space there is really no way to explain the awesomeness of the scene and I think the bit of concept about staying dry was enough. I have to assume they got some free beer for the elephant so that's a good move to put some concept in there. Totally nailed it. Their [Instagram](https://www.instagram.com/p/BxiJKUbhbKh/) said I requested something clever, which I don't recall. I think the other guy was a bit more honest there and in general maybe people do read the call to action area a bit more closely than I intended. I generally am happy with whatever I get, but the back of Garrett's gave the indication that I was trying to limit this to just elephants.
 
 #### I had to look up the letter and holy hell. Low effort on my part.
 
-<figure class="wp-block-image">![](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/Dry-River-Letter-823x1024.jpg)<figcaption>Apparently a pretty low effort letter. Maruzen Sepia was the ink I believe. It's lovely.</figcaption></figure>
+<figure class="wp-block-image">![](dry-river-brewing.assets/Dry-River-Letter-823x1024.jpg)<figcaption>Apparently a pretty low effort letter. Maruzen Sepia was the ink I believe. It's lovely.</figcaption></figure>
 
 So this set is coming back to me. Did a whole ton of California breweries at this time and got ones back from [Yolo](https://www.yolobrew.com/) and [Tower Brewing](http://www.towerbrewingcompany.com/). I don't think I wrote articles on those, but this was an absurdly successful haul for writing and actually getting elephants back. Rereading this one makes me think I should probably read them before I send them as I really didn't stress the elephant thing very much. If this is any indication of what I wrote to get other elephants it's a small wonder how I have as many as I do. I think I was pretty spent at that point and this was one of the later ones I wrote. It looks like I used a BB stub Kanwrite Heritage pen for this. I'd link more stuff for that but it's Indian and I think I'm like the only person I've seen with one in the United States, so maybe another day for that. I did quite a few of them with a Fude nib in the same ink, but that looks like not it. Had a guy from some really fancy part of New York send me in the ink, which is an Athena Ink exclusive for the Japanese Store Maruzen. Writes a bit on the dry side and I ended up buying one of their inks at $35 a bottle that is more of a brick shade that I can't remember.
 
@@ -65,11 +65,11 @@ I'm pretty sure this was fairly early into my writing of breweries and I was kin
 
 #### Aaron's Elephant
 
-<figure class="wp-block-image">![elephant from Dry River Brewing](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-25-0005-e1564079038259-1024x452.jpg)<figcaption>Elephant Drawn by Aaron at or for Dry River Brewing</figcaption></figure>
+<figure class="wp-block-image">![elephant from Dry River Brewing](dry-river-brewing.assets/2019-07-25-0005-e1564079038259-1024x452.jpg)<figcaption>Elephant Drawn by Aaron at or for Dry River Brewing</figcaption></figure>
 
 I used this guy for the first elephant but then got into the others as their own by people. Rather than try to structure the article to make sense I figured I'd also do Aaron's elephant as I did the others. Aaron really just nailed it on this one and it's really hard be critical of it. I feel like when given the prospect of drawing an elephant the gloves came off and short work was made of it. I'm going to assume the gloves were off. I would not want to draw this with boxing gloves on and it really begs the question why one would have boxing gloves on in the first place. Maybe not my finest choice of idioms.
 
-<figure class="wp-block-image">![](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-25-0006-1024x459.jpg)<figcaption>Back of elephant drawn by Aaron at Dry River Brewing</figcaption></figure>
+<figure class="wp-block-image">![](dry-river-brewing.assets/2019-07-25-0006-1024x459.jpg)<figcaption>Back of elephant drawn by Aaron at Dry River Brewing</figcaption></figure>
 
 Okay so the back note really drove it home for me and I really think, especially after digging up my letter to them, that Aaron has to have been the mastermind behind this and I can't thank him enough for that. Well, I mean I could have put in a much more solid effort on my thank you note that I wrote a couple hours ago, but when I say I can't thank someone enough I really mean that I'm not going to thank them enough. It's just one of those expressions people say. "I can't thank you enough, Bob." really means that you won't thank Bob enough, or really at all. You're just going to say that you are thanking someone when in fact you're talking about the very opposite and no thanks are being exchanged. I have to assume Aaron was putting in the bulk of the effort, though it's possible Garrett was more keen on it.
 

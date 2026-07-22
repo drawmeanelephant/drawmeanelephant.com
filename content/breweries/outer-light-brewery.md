@@ -22,30 +22,30 @@ conversion: human_review
 
 Okay so my brewery picker didn't pick this one but rather some rando from Reddit asked me if I'd written Connecticut breweries or that area. They gave me maybe 5-6 addresses in CT and Rhode Island which I wrote and ended up getting a stack of elephant drawings. I think I got like 28 elephants that day and most of them were from this place. I'll ramble more after the gallery. Too many elephants to do inline.
 
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0013-1024x833.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0012-1024x983.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0011-1024x927.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0025-797x1024.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0019-1024x904.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0005-1024x840.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0017-1024x793.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0022-1024x861.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0006-1024x835.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0026-e1560784519226-1024x892.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0024-1024x626.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0003-1024x506.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0004-1024x764.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0016-1024x911.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0020-1024x656.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0010-1024x742.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0018-1024x778.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0015-1024x723.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0014-810x1024.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0007-1024x851.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0023-1024x789.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0021-1024x715.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0008-740x1024.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0009-1024x760.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0013-1024x833.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0012-1024x983.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0011-1024x927.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0025-797x1024.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0019-1024x904.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0005-1024x840.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0017-1024x793.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0022-1024x861.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0006-1024x835.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0026-e1560784519226-1024x892.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0024-1024x626.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0003-1024x506.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0004-1024x764.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0016-1024x911.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0020-1024x656.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0010-1024x742.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0018-1024x778.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0015-1024x723.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0014-810x1024.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0007-1024x851.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0023-1024x789.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0021-1024x715.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0008-740x1024.jpg)</figure>
+- <figure>![](outer-light-brewery.assets/2019-06-01-0009-1024x760.jpg)</figure>
 
 ##### Like 25 elephants. Where to begin?
 

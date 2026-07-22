@@ -28,7 +28,7 @@ link: https://www.drawmeanelephant.com/night-shift-brewing/
 conversion: human_review
 -->
 
-<figure class="wp-block-image">![Elephant from Night Shift Brewing](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-03-0017-1024x758.jpg)</figure>
+<figure class="wp-block-image">![Elephant from Night Shift Brewing](night-shift-brewing.assets/2019-06-03-0017-1024x758.jpg)</figure>
 
 In the course of always wanting people to look up the addresses for places for me [Night Shift Brewing](https://nightshiftfamily.com/brewing/) ended up being one that I wrote along with maybe a half dozen others for that area. I got a really great bunch of elephants from [Outer Light Brewing](http://www.outerlightbrewing.com) around the same time you can find [here](https://www.drawmeanelephant.com/outer-light-brewery/) and think that's probably all I'll get out of those. Two for so few written is really good.
 

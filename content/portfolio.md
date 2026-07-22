@@ -26,21 +26,21 @@ I was told that I should get an idea of what looks good first and then work arou
 
 #### How about a gallery of elephants for no apparent reason then?
 
-- <figure>![elephant from Dry River Brewing](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-25-0003-1024x446.jpg)<figcaption>Elephant drawn by Garrett at or for Dry River Brewing</figcaption></figure>
-- <figure>![elephant crudely drawn by Magic Hat Brewing Company](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-22-0001-1024x589.jpg)<figcaption>Another elephant drawn by Magic Hat. He's doing his best okay, not all elephants are Kim Kardashian.</figcaption></figure>
-- <figure>![scanned image of an elephant drawn by Magic Hat Brewing Company](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-22-0004-1024x911.jpg)<figcaption>Elephant from Magic Hat drawn in what looks like maybe a Bic type of pen. Nice shading.</figcaption></figure>
-- <figure>![elephant from Dry River Brewing](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-25-0005-e1564079038259-1024x452.jpg)<figcaption>Elephant Drawn by Aaron at or for Dry River Brewing</figcaption></figure>
-- <figure>![OM Vapors Elephant](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-19-0001-1024x810.jpg)<figcaption>Elephant Drawn by OM Vapors</figcaption></figure>
-- <figure>![elephant from Turtle Swamp](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2019-07-16-0001-1024x703.jpg)<figcaption>Elephant drawn by a Turtle Swamp Bartender</figcaption></figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/stella.png)<figcaption>Stella</figcaption></figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/newglarus-1024x959.png)<figcaption>New Glarus</figcaption></figure>
-- <figure>![Whitman poem typewritten over pencil drawing](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-04-12-0001-681x1024.jpg)<figcaption>Dogfish Head Main Facility Elephant.</figcaption></figure>
-- <figure>![Elephant drawing](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-23-0001-1024x630.jpg)<figcaption>Elephant drawn by Kuma's Corner Chicago location</figcaption></figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0005-1024x840.jpg)<figcaption>Outer Light</figcaption></figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0009-1024x760.jpg)<figcaption>Outer Light</figcaption></figure>
-- <figure>![Elephant from Cloud Alchemist](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-01-0027.jpg)<figcaption>Cloud Alchemist</figcaption></figure>
-- <figure>![I've affectionately named this elephant Leonard.](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/bells-general-store-elephant.png)<figcaption>The very first elephant from Bell's</figcaption></figure>
-- <figure>![Elephant from Night Shift Brewing](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/2019-06-03-0017-1024x758.jpg)<figcaption>Night Shift Brewing</figcaption></figure>
+- <figure>![elephant from Dry River Brewing](portfolio.assets/2019-07-25-0003-1024x446.jpg)<figcaption>Elephant drawn by Garrett at or for Dry River Brewing</figcaption></figure>
+- <figure>![elephant crudely drawn by Magic Hat Brewing Company](portfolio.assets/2019-07-22-0001-1024x589.jpg)<figcaption>Another elephant drawn by Magic Hat. He's doing his best okay, not all elephants are Kim Kardashian.</figcaption></figure>
+- <figure>![scanned image of an elephant drawn by Magic Hat Brewing Company](portfolio.assets/2019-07-22-0004-1024x911.jpg)<figcaption>Elephant from Magic Hat drawn in what looks like maybe a Bic type of pen. Nice shading.</figcaption></figure>
+- <figure>![elephant from Dry River Brewing](portfolio.assets/2019-07-25-0005-e1564079038259-1024x452.jpg)<figcaption>Elephant Drawn by Aaron at or for Dry River Brewing</figcaption></figure>
+- <figure>![OM Vapors Elephant](portfolio.assets/2019-07-19-0001-1024x810.jpg)<figcaption>Elephant Drawn by OM Vapors</figcaption></figure>
+- <figure>![elephant from Turtle Swamp](portfolio.assets/2019-07-16-0001-1024x703.jpg)<figcaption>Elephant drawn by a Turtle Swamp Bartender</figcaption></figure>
+- <figure>![](portfolio.assets/stella.png)<figcaption>Stella</figcaption></figure>
+- <figure>![](portfolio.assets/newglarus-1024x959.png)<figcaption>New Glarus</figcaption></figure>
+- <figure>![Whitman poem typewritten over pencil drawing](portfolio.assets/2019-04-12-0001-681x1024.jpg)<figcaption>Dogfish Head Main Facility Elephant.</figcaption></figure>
+- <figure>![Elephant drawing](portfolio.assets/2019-06-23-0001-1024x630.jpg)<figcaption>Elephant drawn by Kuma's Corner Chicago location</figcaption></figure>
+- <figure>![](portfolio.assets/2019-06-01-0005-1024x840.jpg)<figcaption>Outer Light</figcaption></figure>
+- <figure>![](portfolio.assets/2019-06-01-0009-1024x760.jpg)<figcaption>Outer Light</figcaption></figure>
+- <figure>![Elephant from Cloud Alchemist](portfolio.assets/2019-06-01-0027.jpg)<figcaption>Cloud Alchemist</figcaption></figure>
+- <figure>![I've affectionately named this elephant Leonard.](portfolio.assets/bells-general-store-elephant.png)<figcaption>The very first elephant from Bell's</figcaption></figure>
+- <figure>![Elephant from Night Shift Brewing](portfolio.assets/2019-06-03-0017-1024x758.jpg)<figcaption>Night Shift Brewing</figcaption></figure>
 
 #### There is no reason for me to use this section. 
 

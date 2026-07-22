@@ -20,21 +20,21 @@ conversion: human_review
 
 Working on sending out my biggest single set of letters to breweries. [Combustion Brewing](https://www.combustionbrewing.com/) sent me a book of drink recipes that had forty breweries addresses, so I wrote every damned one of them asking them to draw me an elephant. Little preview of some of the letters below. Still quite a bit of work to do addressing, postage applying, etc. but was pretty excited about it. Gallery of some of them below.
 
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/mules-and-more-2019-07-20-0027-742x1024.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/mules-and-more-2019-07-20-0028-742x1024.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/mules-and-more-2019-07-20-0021-742x1024.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/mules-and-more-2019-07-20-0015-742x1024.jpg)</figure>
-- <figure>![](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/mules-and-more-2019-07-20-0011-742x1024.jpg)</figure>
+- <figure>![](semiepic-series-of-letters.assets/mules-and-more-2019-07-20-0027-742x1024.jpg)</figure>
+- <figure>![](semiepic-series-of-letters.assets/mules-and-more-2019-07-20-0028-742x1024.jpg)</figure>
+- <figure>![](semiepic-series-of-letters.assets/mules-and-more-2019-07-20-0021-742x1024.jpg)</figure>
+- <figure>![](semiepic-series-of-letters.assets/mules-and-more-2019-07-20-0015-742x1024.jpg)</figure>
+- <figure>![](semiepic-series-of-letters.assets/mules-and-more-2019-07-20-0011-742x1024.jpg)</figure>
 
 #### Used some fancy paper this time around
 
-<figure class="wp-block-image">![](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/6FA16C03-8C8B-47A3-8599-71F1E8C5615E-1024x1024.jpeg)<figcaption>Lamy Safari used that I got from Endless Pens and fan of letters</figcaption></figure>
+<figure class="wp-block-image">![](semiepic-series-of-letters.assets/6FA16C03-8C8B-47A3-8599-71F1E8C5615E-1024x1024.jpeg)<figcaption>Lamy Safari used that I got from Endless Pens and fan of letters</figcaption></figure>
 
 #### Hobby Lobby had paper and a friend picked it up for me
 
 I haven't been in a Hobby Lobby in ages.
 
-<figure class="wp-block-image">![](https://www.drawmeanelephant.com/wp-content/uploads/2019/07/2F7C48D1-2077-45F0-A058-0F7511F177C5-1024x1024.jpeg)<figcaption>Mules and More along with the Strathmore paper used</figcaption></figure>
+<figure class="wp-block-image">![](semiepic-series-of-letters.assets/2F7C48D1-2077-45F0-A058-0F7511F177C5-1024x1024.jpeg)<figcaption>Mules and More along with the Strathmore paper used</figcaption></figure>
 
 #### Little Update
 

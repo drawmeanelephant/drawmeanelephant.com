@@ -20,11 +20,11 @@ link: https://www.drawmeanelephant.com/charlie-and-stella/
 conversion: human_review
 -->
 
-<figure class="wp-block-image">![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/charlie.png)<figcaption>Charlie</figcaption></figure>
+<figure class="wp-block-image">![](charlie-and-stella.assets/charlie.png)<figcaption>Charlie</figcaption></figure>
 
 Charlie and Stella showed up with an order for something. Whenever I order anything I always put a note to draw me an elephant and the majority of the time they do. That's kind of the basis for this working for writing places and particularly places where someone already has pens and paper out. These guys didn't use the packing slip, which is fine.
 
-<figure class="wp-block-image">![](https://www.drawmeanelephant.com/wp-content/uploads/2019/06/stella.png)<figcaption>Stella</figcaption></figure>
+<figure class="wp-block-image">![](charlie-and-stella.assets/stella.png)<figcaption>Stella</figcaption></figure>
 
 So they sent two elephants. I want to say we had two people draw them and they both did a bangup job. This is some of my favorite style of quick drawing and you know with people like this they can just rattle off that kind of stuff somewhat effortlessly. They shipped my order way too quick to have spent too long on these and that's what I'm looking for.
 
