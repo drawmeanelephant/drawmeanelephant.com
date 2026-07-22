@@ -1,0 +1,14 @@
+{
+  "source": {
+    "branch": "afterparty",
+    "commit": null,
+    "repository": null
+  },
+  "binaries": {
+    "darwin-arm64": {
+      "path": "bin/boris",
+      "sha256": "9482234ecca105cc1354c7365a48282b4f5edcb16cc14a8e11f7ba6c45abcd22"
+    }
+  },
+  "notes": "Record the afterparty repository and commit when that branch is available; add a Linux binary before moving site builds to Cloudflare CI."
+}
