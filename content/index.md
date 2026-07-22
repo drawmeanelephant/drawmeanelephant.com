@@ -5,20 +5,6 @@ status: published
 tags: [home]
 ---
 
-# Draw Me An Elephant
-
-## 🐘 Explore the Project
-
-*   [Directory of Breweries](breweries.html) — Check out all 138+ breweries we have written to and their awesome drawings!
-*   [Instagram Archive](instagram.html) — Explore miscellaneous drawings and correspondence posts from our Instagram feed.
-*   [Updates & Ramblings](posts.html) — Read site updates, letters sent out, and general project notes.
-*   [Elephant Portfolio](portfolio.html) — View selected highlights and curated drawing sets.
-*   [Contact Me](contact.html) — Get in touch or send me an elephant.
-*   [Legal & Policies](privacy-policy.html)
-*   [Policy Draft](policy.html)
-
-***
-
 <!-- boris-migration-provenance
 source_format: wordpress-wxr
 source_export: DMAE/drawmeanelephant.WordPress.2026-07-20.xml
