@@ -351,6 +351,17 @@ a:focus-visible, input:focus-visible {
   text-align: center;
 }
 
+.footer-button a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.footer-button a:hover,
+.footer-button a:focus-visible {
+  color: inherit;
+  text-decoration: underline;
+}
+
 @media (max-width: 959px) {
   .content-wrap { grid-template-columns: 1fr; }
   .site-sidebar {
