@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 4
 
-> **Relationship:** Explicit satellite of [Dry River Brewing](breweries/dry-river-brewing.html)
+> **Relationship:** Explicit satellite of [Dry River Brewing](/breweries/dry-river-brewing.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 1.0 (via curated_handle)
 

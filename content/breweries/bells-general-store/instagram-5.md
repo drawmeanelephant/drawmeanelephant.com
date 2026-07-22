@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 5
 
-> **Relationship:** Explicit satellite of [Bell's General Store (Bell's Brewery)](breweries/bells-general-store.html)
+> **Relationship:** Explicit satellite of [Bell's General Store (Bell's Brewery)](/breweries/bells-general-store.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 1.0 (via curated_handle)
 

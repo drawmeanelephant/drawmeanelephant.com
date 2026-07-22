@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 3
 
-> **Relationship:** Explicit satellite of [Dead Armadillo Brewery](breweries/dead-armadillo-brewery.html)
+> **Relationship:** Explicit satellite of [Dead Armadillo Brewery](/breweries/dead-armadillo-brewery.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 0.85 (via csv_hashtag)
 

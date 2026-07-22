@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 2
 
-> **Relationship:** Explicit satellite of [Hammer Spring Distillers](breweries/hammer-spring-distillers.html)
+> **Relationship:** Explicit satellite of [Hammer Spring Distillers](/breweries/hammer-spring-distillers.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 1.0 (via curated_handle)
 

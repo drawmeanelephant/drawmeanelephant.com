@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 3
 
-> **Relationship:** Explicit satellite of [True Terpenes (Charlie & Stella)](breweries/charlie-and-stella.html)
+> **Relationship:** Explicit satellite of [True Terpenes (Charlie & Stella)](/breweries/charlie-and-stella.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 0.9 (via curated_keyword)
 

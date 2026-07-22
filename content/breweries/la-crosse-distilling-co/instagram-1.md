@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 1
 
-> **Relationship:** Explicit satellite of [La Crosse Distilling Co](breweries/la-crosse-distilling-co.html)
+> **Relationship:** Explicit satellite of [La Crosse Distilling Co](/breweries/la-crosse-distilling-co.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 0.85 (via csv_hashtag)
 

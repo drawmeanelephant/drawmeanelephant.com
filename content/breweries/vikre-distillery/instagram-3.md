@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 3
 
-> **Relationship:** Explicit satellite of [Vikre Distillery](breweries/vikre-distillery.html)
+> **Relationship:** Explicit satellite of [Vikre Distillery](/breweries/vikre-distillery.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 1.0 (via curated_handle)
 

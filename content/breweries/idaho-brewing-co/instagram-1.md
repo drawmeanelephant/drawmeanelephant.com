@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 1
 
-> **Relationship:** Explicit satellite of [Idaho Brewing Co](breweries/idaho-brewing-co.html)
+> **Relationship:** Explicit satellite of [Idaho Brewing Co](/breweries/idaho-brewing-co.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 0.8 (via csv_name_inference)
 

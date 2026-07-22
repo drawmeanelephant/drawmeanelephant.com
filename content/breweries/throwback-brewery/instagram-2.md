@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 2
 
-> **Relationship:** Explicit satellite of [Throwback Brewery](breweries/throwback-brewery.html)
+> **Relationship:** Explicit satellite of [Throwback Brewery](/breweries/throwback-brewery.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 0.8 (via csv_name_inference)
 

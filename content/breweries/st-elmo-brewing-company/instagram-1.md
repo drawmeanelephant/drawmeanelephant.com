@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 1
 
-> **Relationship:** Explicit satellite of [St. Elmo Brewing Company](breweries/st-elmo-brewing-company.html)
+> **Relationship:** Explicit satellite of [St. Elmo Brewing Company](/breweries/st-elmo-brewing-company.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 0.85 (via csv_hashtag)
 

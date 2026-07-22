@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 2
 
-> **Relationship:** Explicit satellite of [Full Fledged Brewing Company](breweries/full-fledged-brewing-company.html)
+> **Relationship:** Explicit satellite of [Full Fledged Brewing Company](/breweries/full-fledged-brewing-company.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 0.85 (via csv_hashtag)
 

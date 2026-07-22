@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 7
 
-> **Relationship:** Explicit satellite of [These Guys Brewing Company](breweries/these-guys-brewing-company.html)
+> **Relationship:** Explicit satellite of [These Guys Brewing Company](/breweries/these-guys-brewing-company.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 0.8 (via csv_name_inference)
 

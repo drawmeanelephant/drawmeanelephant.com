@@ -8,7 +8,7 @@ tags: [satellite, instagram]
 
 # Correspondence Part 1
 
-> **Relationship:** Explicit satellite of [Funky Picnic Brewery](breweries/funky-picnic-brewery.html)
+> **Relationship:** Explicit satellite of [Funky Picnic Brewery](/breweries/funky-picnic-brewery.html)
 > **Source platform:** INSTAGRAM Export
 > **Match Confidence:** 0.85 (via csv_hashtag)
 
