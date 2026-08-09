@@ -1,0 +1,53 @@
+name: Build static site
+
+on:
+  push:
+    branches: [main, master]
+  pull_request:
+    branches: [main, master]
+
+permissions:
+  contents: read
+
+env:
+  BORIS_REPOSITORY: https://github.com/drawmeanelephant/boris.git
+  BORIS_BRANCH: afterparty
+
+jobs:
+  build:
+    name: Build static site
+    runs-on: ubuntu-24.04
+    timeout-minutes: 20
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up pinned Zig 0.16.0
+        uses: mlugg/setup-zig@v2
+        with:
+          version: 0.16.0
+
+      - name: Obtain Boris compiler
+        run: |
+          git clone --branch "$BORIS_BRANCH" --single-branch --depth=1 "$BORIS_REPOSITORY" "$RUNNER_TEMP/boris"
+
+      - name: Build Boris
+        working-directory: ${{ runner.temp }}/boris
+        run: |
+          zig build
+          mkdir -p "${{ github.workspace }}/bin"
+          cp zig-out/bin/boris "${{ github.workspace }}/bin/boris"
+          chmod +x "${{ github.workspace }}/bin/boris"
+
+      - name: Build site
+        env:
+          BORIS_BIN: ./bin/boris
+          DIST_DIR: dist
+        run: ./build.sh
+
+      - name: Upload dist artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: site-dist
+          path: dist/
