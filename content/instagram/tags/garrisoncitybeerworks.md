@@ -1,0 +1,17 @@
+---
+id: instagram/tags/garrisoncitybeerworks
+title: "#garrisoncitybeerworks"
+parent: instagram
+status: published
+tags: [instagram, tag]
+---
+
+# #garrisoncitybeerworks
+
+5 archive records.
+
+- <a href="../posts/2020/08/2020-08-08-okay-so-every-time-i-tell-someone-in-real-life-that-taylormutantninjatur.html">Okay so every time I tell someone in real life that @taylormutantninjaturtle drew me an elephant they just remark about it being the cutest Instagram handle ever in the history of ever so maybe I have too many #TMNT fans in my life and they really don&#39;t care about seeing elephants any longer. That aside, Phiona is coming with some serious sass. This came on the lower grade bond paper compared to Gerald earlier and the pencil really helped bring the eyes out. Super huge thanks to #taylormutantninjaturtle and everyone at @garrisoncity who drew an elephant. Feel free to send snail mail any time. Best in a long time and I normally don&#39;t get all #puppiesandbabies about these but it&#39;s hard not to. Totally solid and the next elephant from #garrisoncitybeerworks ain&#39;t whack either, but is no #phionatheelephant #drawmeanelephant</a> — August 8, 2020 · 4:34 PM UTC · post
+- <a href="../posts/2020/08/2020-08-08-gerald-enjoys-a-beer-and-has-dad-jokes-for-days-he-pronounces-garrison-a.html">Gerald enjoys a beer, and has dad jokes for days. He pronounces Garrison as &quot;Jarrison&quot; like &quot;Gerald&quot; and would most certainly have another pint if you&#39;re buying. @audpaud did the art on this and informed me that #geraldtheelephantandpiggie is apparently already a thing and a @mo.willems.studio creation. I would not know this on my own as I do 0 research beyond reading my own comments (which aren&#39;t many). #drawmeanelephant #garrisoncitybeerworks #fanart #mowillems #nocluehowhashtagsworkandatthispointimtoaffraidtoask</a> — August 8, 2020 · 5:05 AM UTC · post
+- <a href="../posts/2020/08/2020-08-07-this-elephant-by-casey-mcquate-is-a-huge-garrisoncity-beer-fan-and-has-o.html">This elephant by @casey_mcquate is a huge @garrisoncity beer fan and has  official #garrisoncitybeerworks glassware for a relaxing #tubbeer #drawmeanelephant #thorstyboi</a> — August 7, 2020 · 1:14 PM UTC · post
+- <a href="../posts/2020/08/2020-08-07-okay-so-there-s-a-whole-bunch-of-ways-to-carbonate-beer-some-people-like.html">Okay so there’s a whole bunch of ways to carbonate beer. Some people like bottle conditioned and others bring in #co2 via tanks. @garrisoncity seems to have created a contraption to harness elephant bubbles that may have been designed by #theodoregeisel to carbonate. Very innovative! Art by @00a86b and #00a86b is the hex code i used for color, obviously. #drawmeanelephant #garrisoncitybeerworks #thorstyboi</a> — August 7, 2020 · 10:27 AM UTC · post
+- <a href="../posts/2020/08/2020-08-07-garrisoncity-did-a-whole-bunch-of-elephants-and-not-a-one-of-them-is-wha.html">@garrisoncity did a whole bunch of elephants and not a one of them is whack. @mmmmegggie did this one and it’s the probably the worst of the bunch and still awesome. This elephant showed up for one session IPA and is ready to head home. Sadly for this elephant, there’s a whole grip of elephant friends who still have beer to drink and Gerald never abandons a partially full beer. #waitonyourfriend #drawmeanelephant #garrisoncitybeerworks</a> — August 7, 2020 · 6:46 AM UTC · post

@@ -84,6 +84,15 @@ a:focus-visible, input:focus-visible {
   text-align: center;
 }
 
+.page-header-note {
+  margin: 0 0 4px;
+  color: var(--muted);
+  font-size: 12px;
+  letter-spacing: .16em;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 .page-header--inner .page-header-inner {
   display: flex;
   align-items: center;
@@ -306,13 +315,92 @@ a:focus-visible, input:focus-visible {
   font-size: 12px;
 }
 
-.sidebar-search input {
+.site-search-form,
+.search-page-form {
+  margin: 0;
+}
+
+.site-search-row,
+.search-page-form-row {
+  display: flex;
+  align-items: stretch;
+  gap: 8px;
+}
+
+.site-search-row input,
+.search-page-form-row input {
+  min-width: 0;
+  flex: 1 1 auto;
   width: 100%;
   padding: 8px 10px;
   border: 1px solid #ddd;
   background: #fff;
   color: var(--text);
   font: inherit;
+}
+
+.site-search-row button,
+.search-page-form-row button {
+  flex: 0 0 auto;
+  padding: 8px 12px;
+  border: 1px solid var(--link);
+  background: var(--link);
+  color: #fff;
+  font: inherit;
+  cursor: pointer;
+}
+
+.site-search-row button:hover,
+.site-search-row button:focus-visible,
+.search-page-form-row button:hover,
+.search-page-form-row button:focus-visible {
+  border-color: #155a92;
+  background: #155a92;
+}
+
+.search-page {
+  max-width: 760px;
+}
+
+.search-status {
+  margin: 28px 0 14px;
+  color: var(--muted);
+}
+
+.search-results {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.search-result {
+  margin: 0 0 24px;
+  padding: 0 0 20px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.search-result-title {
+  margin: 0 0 3px;
+  color: var(--heading);
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.search-result-path {
+  margin: 0 0 8px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.search-result-snippet {
+  margin: 0;
+}
+
+.search-no-results {
+  margin: 0;
+  color: var(--muted);
 }
 
 .site-footer {
@@ -362,6 +450,181 @@ a:focus-visible, input:focus-visible {
   text-decoration: underline;
 }
 
+/* Instagram is a visual archive, so give its index and records a little
+   breathing room instead of treating every page like a generic document. */
+.instagram-index-content > h1:first-child,
+.instagram-record-content > h1:first-child {
+  display: none;
+}
+
+.instagram-search-panel {
+  margin: 0 0 34px;
+  padding: 22px 24px;
+  border-left: 4px solid var(--header);
+  background: #fffaf0;
+}
+
+.instagram-search-intro {
+  margin: 0 0 14px;
+  color: var(--heading);
+  font-family: 'Josefin Slab', serif;
+  font-size: 18px;
+  line-height: 1.45;
+}
+
+.instagram-search label {
+  display: block;
+  margin: 0 0 7px;
+  color: var(--muted);
+  font-size: 12px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.instagram-search-row {
+  display: flex;
+  gap: 10px;
+}
+
+.instagram-search input {
+  min-width: 0;
+  flex: 1;
+  padding: 10px 12px;
+  border: 1px solid #d8cdbd;
+  background: #fff;
+  color: var(--text);
+  font: inherit;
+}
+
+.instagram-search button {
+  padding: 10px 18px;
+  border: 0;
+  background: #6b943d;
+  color: #fff;
+  font: inherit;
+  cursor: pointer;
+}
+
+.instagram-search button:hover,
+.instagram-search button:focus-visible {
+  background: #52752d;
+}
+
+.instagram-search-status {
+  min-height: 1.5em;
+  margin: 8px 0 0;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.instagram-feed {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 22px;
+  margin: 30px 0 0;
+}
+
+.instagram-feed__item {
+  min-width: 0;
+  margin: 0;
+  padding: 16px;
+  border: 1px solid #e6ded2;
+  background: #fff;
+  box-shadow: 0 8px 20px rgba(75, 55, 32, .08);
+}
+
+.instagram-feed__item h2 {
+  margin: 0 0 14px;
+  color: var(--heading);
+  font-family: 'Josefin Slab', serif;
+  font-size: 17px;
+  line-height: 1.45;
+}
+
+.instagram-feed__item h2 a {
+  color: inherit;
+}
+
+.instagram-feed__meta {
+  margin: 0 0 8px;
+  color: var(--muted);
+  font-size: 12px;
+  line-height: 1.4;
+}
+
+.instagram-feed__item > a:last-child {
+  display: block;
+}
+
+.instagram-feed__item > a:last-child img {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  object-fit: cover;
+  margin: 0;
+  background: #f3eee6;
+}
+
+.instagram-feed__item > a:last-child:hover img,
+.instagram-feed__item > a:last-child:focus-visible img {
+  box-shadow: 0 0 0 4px rgba(221, 153, 51, .35);
+}
+
+.instagram-no-results {
+  margin: 28px 0;
+  padding: 20px;
+  border: 1px dashed #c9bda9;
+  color: var(--muted);
+  text-align: center;
+}
+
+.instagram-record-entry .entry-kicker {
+  margin: 0 0 10px;
+  color: var(--muted);
+  font-size: 12px;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+}
+
+.instagram-record-content > p:first-of-type {
+  margin-bottom: 22px;
+  color: var(--muted);
+  font-size: 13px;
+}
+
+.instagram-gallery {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 16px;
+  margin: 28px 0;
+}
+
+.instagram-gallery__item {
+  margin: 0;
+  padding: 8px;
+  border: 1px solid #e6ded2;
+  background: #fff;
+  box-shadow: 0 8px 20px rgba(75, 55, 32, .08);
+}
+
+.instagram-gallery__item img {
+  display: block;
+  width: 100%;
+  margin: 0;
+}
+
+.instagram-video {
+  display: block;
+  width: 100%;
+  max-width: 700px;
+  margin: 28px 0;
+  background: #1d1d1d;
+}
+
+@media (max-width: 1050px) {
+  .instagram-feed { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+
 @media (max-width: 959px) {
   .content-wrap { grid-template-columns: 1fr; }
   .site-sidebar {
@@ -388,6 +651,19 @@ a:focus-visible, input:focus-visible {
   .theme-footer__inner { display: block; }
   .footer-remark { display: block; max-width: none; margin-bottom: 25px; }
   .footer-button { display: block; width: 100%; }
+  .site-search-row,
+  .search-page-form-row { display: block; }
+  .site-search-row input,
+  .site-search-row button,
+  .search-page-form-row input,
+  .search-page-form-row button { width: 100%; }
+  .site-search-row button,
+  .search-page-form-row button { margin-top: 10px; }
+  .instagram-search-row { display: block; }
+  .instagram-search input,
+  .instagram-search button { width: 100%; }
+  .instagram-search button { margin-top: 10px; }
+  .instagram-feed { grid-template-columns: 1fr; }
 }
 
 @media (prefers-reduced-motion: reduce) {

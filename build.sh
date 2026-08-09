@@ -13,6 +13,8 @@ fi
 "$BORIS_BIN" --input content --theme themes/drawmeanelephant --html-dir "$DIST_DIR" \
   --layout-rule default 'glob:posts/*' themes/drawmeanelephant/layouts/post.html \
   --layout-rule default 'glob:breweries/*' themes/drawmeanelephant/layouts/brewery.html \
-  --layout-rule default 'glob:instagram/*' themes/drawmeanelephant/layouts/brewery.html \
+  --layout-rule default 'id:instagram' themes/drawmeanelephant/layouts/instagram-index.html \
+  --layout-rule default 'glob:instagram/tags/*' themes/drawmeanelephant/layouts/instagram.html \
+  --layout-rule default 'glob:instagram/*/*/*/*' themes/drawmeanelephant/layouts/instagram.html \
   -j 8
 echo "🎉 Build complete! Output is located in the '$DIST_DIR' folder."
