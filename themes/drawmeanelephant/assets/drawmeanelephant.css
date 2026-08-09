@@ -315,13 +315,92 @@ a:focus-visible, input:focus-visible {
   font-size: 12px;
 }
 
-.sidebar-search input {
+.site-search-form,
+.search-page-form {
+  margin: 0;
+}
+
+.site-search-row,
+.search-page-form-row {
+  display: flex;
+  align-items: stretch;
+  gap: 8px;
+}
+
+.site-search-row input,
+.search-page-form-row input {
+  min-width: 0;
+  flex: 1 1 auto;
   width: 100%;
   padding: 8px 10px;
   border: 1px solid #ddd;
   background: #fff;
   color: var(--text);
   font: inherit;
+}
+
+.site-search-row button,
+.search-page-form-row button {
+  flex: 0 0 auto;
+  padding: 8px 12px;
+  border: 1px solid var(--link);
+  background: var(--link);
+  color: #fff;
+  font: inherit;
+  cursor: pointer;
+}
+
+.site-search-row button:hover,
+.site-search-row button:focus-visible,
+.search-page-form-row button:hover,
+.search-page-form-row button:focus-visible {
+  border-color: #155a92;
+  background: #155a92;
+}
+
+.search-page {
+  max-width: 760px;
+}
+
+.search-status {
+  margin: 28px 0 14px;
+  color: var(--muted);
+}
+
+.search-results {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.search-result {
+  margin: 0 0 24px;
+  padding: 0 0 20px;
+  border-bottom: 1px solid var(--rule);
+}
+
+.search-result-title {
+  margin: 0 0 3px;
+  color: var(--heading);
+  font-family: 'Josefin Slab', serif;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 1.4;
+}
+
+.search-result-path {
+  margin: 0 0 8px;
+  color: var(--muted);
+  font-size: 12px;
+}
+
+.search-result-snippet {
+  margin: 0;
+}
+
+.search-no-results {
+  margin: 0;
+  color: var(--muted);
 }
 
 .site-footer {
@@ -572,6 +651,14 @@ a:focus-visible, input:focus-visible {
   .theme-footer__inner { display: block; }
   .footer-remark { display: block; max-width: none; margin-bottom: 25px; }
   .footer-button { display: block; width: 100%; }
+  .site-search-row,
+  .search-page-form-row { display: block; }
+  .site-search-row input,
+  .site-search-row button,
+  .search-page-form-row input,
+  .search-page-form-row button { width: 100%; }
+  .site-search-row button,
+  .search-page-form-row button { margin-top: 10px; }
   .instagram-search-row { display: block; }
   .instagram-search input,
   .instagram-search button { width: 100%; }

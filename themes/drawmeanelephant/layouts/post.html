@@ -34,8 +34,13 @@
       <aside class="site-sidebar" aria-label="Primary Sidebar">
         <section class="sidebar-box sidebar-search">
           <h4>Search</h4>
-          <label class="search-label" for="site-search">Search this website</label>
-          <input id="site-search" type="search" placeholder="Search">
+          <form class="site-search-form" action="/search.html" method="get" role="search">
+            <label class="search-label" for="site-search">Search this website</label>
+            <div class="site-search-row">
+              <input id="site-search" name="q" type="search" placeholder="Search the site" autocomplete="off">
+              <button type="submit">Search</button>
+            </div>
+          </form>
         </section>
         <section class="sidebar-box"><h4>The Elephants</h4><ul>
           <li><a href="/breweries/dry-river-brewing.html">Dry River Brewing</a></li><li><a href="/breweries/hammer-spring-distillers.html">Hammer Spring Distillers</a></li><li><a href="/breweries/iowa-distilling-company.html">Iowa Distilling Company</a></li><li><a href="/breweries/kumas-corner.html">Kuma’s Corner</a></li><li><a href="/breweries/magic-hat-brewing.html">Magic Hat Brewing</a></li><li><a href="/breweries/night-shift-brewing.html">Night Shift Brewing</a></li><li><a href="/breweries/om-vapors.html">OM Vapors</a></li><li><a href="/breweries/outer-light-brewery.html">Outer Light Brewery</a></li><li><a href="/breweries/tower-brewing.html">Tower Brewing</a></li><li><a href="/breweries/turtle-swamp-brewing.html">Turtle Swamp Brewing</a></li><li><a href="/breweries/vikre-distillery.html">Vikre Distillery</a></li>
