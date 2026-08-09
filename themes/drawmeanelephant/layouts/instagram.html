@@ -1,0 +1,63 @@
+<!doctype html>
+<html lang="en" data-theme="drawmeanelephant" data-layout="instagram">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The elephant feed · draw me an elephant</title>
+  <link rel="stylesheet" href="{{asset-url assets/drawmeanelephant.css}}">
+</head>
+<body class="instagram-site instagram-record-page">
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <div class="site-shell">
+    <header class="site-header" role="banner">
+      <a class="site-logo" href="/index.html" aria-label="Draw Me an Elephant"></a>
+    </header>
+
+    <div class="page-header page-header--inner">
+      <div class="page-header-inner">
+        <h1 class="page-header-title">The elephant feed</h1>
+        {{breadcrumb}}
+      </div>
+    </div>
+
+    <div class="content-wrap">
+      <main id="main-content" class="site-main" tabindex="-1">
+        <article class="entry instagram-record-entry">
+          <p class="entry-kicker"><a href="/instagram.html">Back to the elephant feed</a></p>
+          <h1 class="entry-title" data-boris-search-exclude="true">{{title}}</h1>
+          {{metadata}}
+          <div class="entry-content prose instagram-record-content">
+            {{content}}
+          </div>
+        </article>
+        {{children}}
+      </main>
+
+      <aside class="site-sidebar" aria-label="Instagram navigation">
+        <section class="sidebar-box">
+          <h4>This corner of the site</h4>
+          <ul>
+            <li><a href="/instagram.html">All the elephants</a></li>
+            <li><a href="/breweries.html">Letters to breweries</a></li>
+            <li><a href="/portfolio.html">The drawings</a></li>
+            <li><a href="/posts.html">Site notes</a></li>
+          </ul>
+        </section>
+
+        <section class="sidebar-box">
+          <h4>Need the fine print?</h4>
+          <ul>
+            <li><a href="/rights.html">Rights and permissions</a></li>
+            <li><a href="/privacy-policy.html">Privacy policy</a></li>
+            <li><a href="/contact.html">Contact</a></li>
+          </ul>
+        </section>
+      </aside>
+    </div>
+
+    <footer class="site-footer theme-footer" role="contentinfo">
+      {{footer}}
+    </footer>
+  </div>
+</body>
+</html>

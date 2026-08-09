@@ -1,0 +1,79 @@
+<!doctype html>
+<html lang="en" data-theme="drawmeanelephant" data-layout="instagram-index">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>The elephant feed · draw me an elephant</title>
+  <link rel="stylesheet" href="{{asset-url assets/drawmeanelephant.css}}">
+  <script src="{{asset-url assets/instagram.js}}" defer></script>
+</head>
+<body class="instagram-site instagram-index-page">
+  <a class="skip-link" href="#main-content">Skip to content</a>
+  <div class="site-shell">
+    <header class="site-header" role="banner">
+      <a class="site-logo" href="/index.html" aria-label="Draw Me an Elephant"></a>
+    </header>
+
+    <div class="page-header">
+      <div class="page-header-inner">
+        <p class="page-header-note">The mailroom, but make it social</p>
+        <h1 class="page-header-title">The elephant feed</h1>
+      </div>
+    </div>
+
+    <div class="content-wrap">
+      <main id="main-content" class="site-main" tabindex="-1">
+        <div class="instagram-search-panel">
+          <p class="instagram-search-intro">There are a lot of elephants in here. Search by a handle, a hashtag, or a year.</p>
+          <form class="instagram-search" role="search" data-instagram-search novalidate>
+            <label for="instagram-search-input">Search the elephant feed</label>
+            <div class="instagram-search-row">
+              <input id="instagram-search-input" type="search" placeholder="Try “pizzahut” or “2020”" autocomplete="off">
+              <button type="submit">Find it</button>
+            </div>
+            <p class="instagram-search-status" data-instagram-status aria-live="polite"></p>
+          </form>
+        </div>
+
+        <article class="entry instagram-index-entry">
+          <div class="entry-content prose instagram-index-content">
+            {{content}}
+          </div>
+          <p class="instagram-no-results" data-instagram-empty hidden>No elephants matched that search. Try a shorter phrase.</p>
+        </article>
+      </main>
+
+      <aside class="site-sidebar" aria-label="Site navigation">
+        <section class="sidebar-box">
+          <h4>Keep wandering</h4>
+          <ul>
+            <li><a href="/index.html">Start at the beginning</a></li>
+            <li><a href="/breweries.html">Letters to breweries</a></li>
+            <li><a href="/other-places.html">Other places and things</a></li>
+            <li><a href="/portfolio.html">The drawings</a></li>
+            <li><a href="/posts.html">Site notes</a></li>
+          </ul>
+        </section>
+
+        <section class="sidebar-box">
+          <h4>About this shelf</h4>
+          <p>These are local copies from an Instagram download. The original captions stay gloriously intact.</p>
+        </section>
+
+        <section class="sidebar-box">
+          <h4>Say hello</h4>
+          <ul>
+            <li><a href="/contact.html">Contact</a></li>
+            <li><a href="/rights.html">Rights and permissions</a></li>
+            <li><a href="/privacy-policy.html">Privacy policy</a></li>
+          </ul>
+        </section>
+      </aside>
+    </div>
+
+    <footer class="site-footer theme-footer" role="contentinfo">
+      {{footer}}
+    </footer>
+  </div>
+</body>
+</html>
