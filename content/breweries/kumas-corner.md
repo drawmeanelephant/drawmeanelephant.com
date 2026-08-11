@@ -36,8 +36,6 @@ I'll try to add some links to their stuff as I go but I really need to get caugh
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Kuma's Corner Correspondence Part 1](kumas-corner/instagram-1.html)

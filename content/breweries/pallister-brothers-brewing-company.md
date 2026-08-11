@@ -1,0 +1,22 @@
+---
+id: breweries/pallister-brothers-brewing-company
+title: "Pallister Brothers Brewing Company"
+status: published
+tags: [brewery, "IA", scaffold]
+---
+
+# Pallister Brothers Brewing Company
+
+> [!NOTE]
+> **Outreach Metadata**
+> * **Location:** Ottumwa, IA 52501
+> * **Type:** Taproom
+> * **Written:** 2020-02-01
+> * **Elephant Received:** Not recorded
+> * **Mail Status:** Not recorded
+
+This page is a scaffold for an outreach record. Correspondence, drawing scans, and notes can be added here as they are recovered.
+
+## Correspondence
+
+No correspondence archive has been attached yet.

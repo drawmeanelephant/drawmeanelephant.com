@@ -20,8 +20,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Strum Brewing Company Correspondence Part 1](strum-brewing-company/instagram-1.html)

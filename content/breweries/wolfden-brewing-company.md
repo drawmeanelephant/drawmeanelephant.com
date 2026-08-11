@@ -20,8 +20,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Wolfden Brewing Company Correspondence Part 1](wolfden-brewing-company/instagram-1.html)

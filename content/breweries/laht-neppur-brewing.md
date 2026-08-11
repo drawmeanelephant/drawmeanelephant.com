@@ -1,0 +1,22 @@
+---
+id: breweries/laht-neppur-brewing
+title: "Laht Neppur Brewing"
+status: published
+tags: [brewery, "WA", scaffold]
+---
+
+# Laht Neppur Brewing
+
+> [!NOTE]
+> **Outreach Metadata**
+> * **Location:** Waitsburg, WA 99361
+> * **Type:** Taproom
+> * **Written:** 2020-03-03
+> * **Elephant Received:** Not recorded
+> * **Mail Status:** Not recorded
+
+This page is a scaffold for an outreach record. Correspondence, drawing scans, and notes can be added here as they are recovered.
+
+## Correspondence
+
+No correspondence archive has been attached yet.

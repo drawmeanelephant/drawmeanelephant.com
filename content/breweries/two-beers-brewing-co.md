@@ -21,8 +21,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Two Beers Brewing Co Correspondence Part 1](two-beers-brewing-co/instagram-1.html)

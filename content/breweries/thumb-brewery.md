@@ -20,8 +20,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Thumb Brewery Correspondence Part 1](thumb-brewery/instagram-1.html)

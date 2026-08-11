@@ -20,8 +20,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Voodoo Brewing Co Correspondence Part 1](voodoo-brewing-co/instagram-1.html)

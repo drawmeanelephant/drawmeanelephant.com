@@ -20,8 +20,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Paladin Brewing Correspondence Part 1](paladin-brewing/instagram-1.html)

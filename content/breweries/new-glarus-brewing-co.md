@@ -20,8 +20,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [New Glarus Brewing Co Correspondence Part 1](new-glarus-brewing-co/instagram-1.html)

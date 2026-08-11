@@ -48,8 +48,6 @@ I think I've covered fairly exhaustively how half assed my efforts are on actual
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Turtle Swamp Brewing Correspondence Part 1](turtle-swamp-brewing/instagram-1.html)

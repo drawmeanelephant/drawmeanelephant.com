@@ -33,3 +33,12 @@ canonical relationship until the caption and images have been reviewed.
 
 The mapping review is a conservative snapshot, not a canonical relationship
 database.
+
+## Page scaffolding
+
+`tools/scaffold_pages.py` can consume a read-only CSV export of the workbook's
+`Addresses` tab. It uses nonblank `written` values as page candidates, merges
+exact duplicate locations, preserves existing page IDs, and writes a reviewable
+`data/page-scaffolding-manifest.csv` alongside the generated Markdown pages.
+Generated public pages keep city/state/ZIP and public URLs but intentionally omit
+street-address fields from the workbook.

@@ -21,8 +21,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Chapel and Main Correspondence Part 1](chapel-and-main/instagram-1.html)

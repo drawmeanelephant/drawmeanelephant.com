@@ -40,8 +40,6 @@ Someone on reddit mentioned that they would really like to color this in and whi
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [OM Vapors Correspondence Part 1](om-vapors/instagram-1.html)

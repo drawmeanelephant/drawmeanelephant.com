@@ -20,8 +20,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [10 Barrel Brewing Co Correspondence Part 1](10-barrel-brewing-co/instagram-1.html)

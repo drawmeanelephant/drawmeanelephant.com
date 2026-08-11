@@ -44,8 +44,6 @@ I'm not even sure what's going on here and I'm pretty sure Emily is one of these
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Vikre Distillery Correspondence Part 1](vikre-distillery/instagram-1.html)

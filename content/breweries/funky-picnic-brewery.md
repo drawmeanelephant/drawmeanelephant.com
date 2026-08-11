@@ -20,8 +20,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Funky Picnic Brewery Correspondence Part 1](funky-picnic-brewery/instagram-1.html)

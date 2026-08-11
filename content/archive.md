@@ -10,6 +10,7 @@ tags: [archive]
 
 - [Directory of Breweries](breweries.html)
 - [Other places and things](other-places.html)
+- [Written places](written-places.html)
 - [Portfolio](portfolio.html)
 - [Instagram Archive](instagram.html)
 - [Updates & Ramblings](posts.html)

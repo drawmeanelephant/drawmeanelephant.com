@@ -20,8 +20,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Fossil Cove Brewing Co Correspondence Part 1](fossil-cove-brewing-co/instagram-1.html)

@@ -9,8 +9,6 @@ tags: [archive]
 
 Here are some miscellaneous archive posts and elephant photos from our Instagram channel.
 
-{{children}}
-
 ## All Archive Posts
 
 *   📸 [Archive Post 1 (Instagram)](instagram/post-1.html)

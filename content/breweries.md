@@ -41,7 +41,6 @@ Here is a list of all breweries we've written to and tracked, along with their d
 - [Combustion Brewery](/breweries/combustion-brewery.html) — Pickerington, OH (1 satellites)
 - [Contrary Brewing Co](/breweries/contrary-brewing-co.html) — Muscatine, IA (1 satellites)
 - [Crane Brewing Company](/breweries/crane-brewing-company.html) — Raytown, MO (1 satellites)
-- [Cricket Press](/breweries/cricket-press.html) — Lexington, KY (1 satellites)
 - [Dead Armadillo Brewery](/breweries/dead-armadillo-brewery.html) — Tulsa, OK (3 satellites)
 - [Denali Brewing Company](/breweries/denali-brewing-company.html) — Talkeetna, AK (1 satellites)
 - [DESTIHL Brewery](/breweries/destihl-brewery.html) — Normal, IL (1 satellites)

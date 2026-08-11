@@ -44,8 +44,6 @@ Gave these guys a call to thank them for drawing me an elephant, which I do some
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Iowa Distilling Company Correspondence Part 1](iowa-distilling-company/instagram-1.html)

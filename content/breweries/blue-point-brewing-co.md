@@ -21,8 +21,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Blue Point Brewing Co Correspondence Part 1](blue-point-brewing-co/instagram-1.html)
