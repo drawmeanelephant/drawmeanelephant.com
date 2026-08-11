@@ -5,6 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>draw me an elephant</title>
   <link rel="stylesheet" href="{{asset-url assets/drawmeanelephant.css}}">
+  <script src="{{asset-url assets/search.js}}" defer></script>
 </head>
 <body>
   <a class="skip-link" href="#main-content">Skip to content</a>
@@ -32,8 +33,13 @@
       <aside class="site-sidebar" aria-label="Primary Sidebar">
         <section class="sidebar-box sidebar-search">
           <h4>Search</h4>
-          <label class="search-label" for="site-search">Search this website</label>
-          <input id="site-search" type="search" placeholder="Insert search query">
+          <form class="site-search-form" action="/search.html" method="get" role="search">
+            <label class="search-label" for="site-search">Search this website</label>
+            <div class="site-search-row">
+              <input id="site-search" name="q" type="search" placeholder="Search the site" autocomplete="off">
+              <button type="submit">Search</button>
+            </div>
+          </form>
         </section>
 
         <section class="sidebar-box">

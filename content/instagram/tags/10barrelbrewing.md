@@ -1,0 +1,18 @@
+---
+id: instagram/tags/10barrelbrewing
+title: "#10barrelbrewing"
+parent: instagram
+status: published
+tags: [instagram, tag]
+---
+
+# #10barrelbrewing
+
+6 archive records.
+
+- <a href="../posts/2020/12/2020-12-25-jordan-is-the-pub-events-manager-for-10barrelbrewing-which-i-feel-is-one.html">Jordan is the pub events manager for @10barrelbrewing which I feel is one of these titles where I’m getting punked. In the back of my head I’m thinking Jordan is either in grade school and one of the #brewerykids or maybe drew this left handed. It’s mad suspect to me but I’m also super happy any time I get an elephant. Thanks #10barrelbrewing #drawmeanelephant</a> — December 25, 2020 · 3:27 PM UTC · post
+- <a href="../posts/2020/12/2020-12-23-my-other-postitnoteart-from-10barrelbrewing-came-from-moo-and-i-would-sa.html">My other #postitnoteart from @10barrelbrewing came from 🖤Moo and I would say was probably a Pilot G2 or some similar .7 hybrid ink affair in terms of a pen. Sort of a lot going on in terms of number of pen motions with a pretty good judgement call with the eyes to create that happy look rather trying something more elaborate and having poor results. I&#39;ve always said discretion is the better part of valor, but never bothered to look up what that means. I&#39;m gonna hope for the best and hit post. Thanks #10barrelbrewing for all the precious pachyderm portraiture. #drawmeanelephant</a> — December 23, 2020 · 10:15 AM UTC · post
+- <a href="../posts/2020/12/2020-12-23-jeff-put-together-a-really-fantastic-postitart-elephant-with-what-appear.html">Jeff put together a really fantastic #postitart elephant with what appears to be a @sharpie Ultra Fine Point that replaced the Extra Fine Points that were actually good. Jeff hasn&#39;t given up on the Sharpie yet even though it appears the Sharpie is about to give up on Jeff, which is a little bit sad. This was from @10barrelbrewing who had a whole bunch of employees draw elephants for me, which is super exciting. I&#39;m not sure what role a Jeff plays exactly in a brewery, but I know from @preciousthingsbeer that you can run a brewery almost exclusively off of a single Jeff. #fineliner #10barrelbrewing #drawmeanelephant</a> — December 23, 2020 · 9:30 AM UTC · post
+- <a href="../posts/2020/12/2020-12-22-10barrelbrewing-had-their-digital-marketing-manager-draw-this-elephant-h.html">@10barrelbrewing had their digital marketing manager draw this elephant. @hannahreneebarnett did a fantastic job with marker that matches close enough to the spot metallic on the paper. I&#39;m not quite sure what that job entails but I imagine it is a lot of working with people who don&#39;t understand graphic arts and being sort of the glue between marketing and creative without really fully being part of either. Cheers to Hannah and great use of #10barrelbrewing #wrappingpaper #drawmeanelephant</a> — December 22, 2020 · 10:50 AM UTC · post
+- <a href="../posts/2020/12/2020-12-14-10barrelbrewing-had-several-people-in-their-company-draw-an-elephant-inc.html">@10barrelbrewing had several people in their company draw an elephant, including a Key Accounts Manager, a Pub Events Manager, and a Jeff. It is a star-studded event, complete with #wrappingpaper #10barrelbrewing</a> — December 14, 2020 · 7:31 AM UTC · post
+- <a href="../posts/2020/12/2020-12-02-10barrelbrewing-out-of-bend-oregon-sent-this-in-lieu-of-an-elephant-i-m.html">@10barrelbrewing out of Bend Oregon sent this in lieu of an elephant. I&#39;m not sure if they are comparing my elephant solicitations to the god salesman or what the deeper meaning was. Doesn&#39;t matter, I suppose. #10barrelbrewing #10barrelbend</a> — December 2, 2020 · 8:12 AM UTC · post
