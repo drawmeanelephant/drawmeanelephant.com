@@ -83,8 +83,6 @@ Looks to be kind of interesting on the beer end of things. I'm a sucker for sour
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Dry River Brewing Correspondence Part 1](dry-river-brewing/instagram-1.html)

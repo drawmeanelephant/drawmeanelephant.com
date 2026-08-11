@@ -34,8 +34,6 @@ Not sure if it helped and probably doesn't help the story a bit but this place h
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [True Terpenes (Charlie & Stella) Correspondence Part 1](charlie-and-stella/instagram-1.html)

@@ -58,8 +58,6 @@ It was a good and quick note. I'm not sure if the thing about the Summer was thi
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Magic Hat Brewing Correspondence Part 1](magic-hat-brewing/instagram-1.html)

@@ -41,8 +41,6 @@ I sent a shitton of letters to California and they did really good on delivering
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Tower Brewing Correspondence Part 1](tower-brewing/instagram-1.html)

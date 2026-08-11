@@ -20,8 +20,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Left Hand Brewing Company Correspondence Part 1](left-hand-brewing-company/instagram-1.html)

@@ -20,8 +20,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [HooDoo Brewing Co Correspondence Part 1](hoodoo-brewing-co/instagram-1.html)

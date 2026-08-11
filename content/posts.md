@@ -9,8 +9,6 @@ tags: [blog]
 
 Here are some site announcements, letters sent out, and general updates about the project.
 
-{{children}}
-
 ## All Updates
 
 *   ✍️ [Finally made a site for these things](posts/finally-made-a-site-for-these-things.html)

@@ -54,8 +54,6 @@ This was pretty much the whole package when I speak of what I would call an idea
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Hammer Spring Distillers Correspondence Part 1](hammer-spring-distillers/instagram-1.html)

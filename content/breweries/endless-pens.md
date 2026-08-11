@@ -21,8 +21,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Endless Pens Correspondence Part 1](endless-pens/instagram-1.html)

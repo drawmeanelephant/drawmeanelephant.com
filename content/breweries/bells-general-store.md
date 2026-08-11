@@ -12,8 +12,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Bell's General Store (Bell's Brewery) Correspondence Part 1](bells-general-store/instagram-1.html)

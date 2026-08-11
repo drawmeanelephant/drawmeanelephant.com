@@ -21,8 +21,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Mike Hess Brewing Correspondence Part 1](mike-hess-brewing/instagram-1.html)

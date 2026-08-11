@@ -33,5 +33,5 @@ Not everything in the archive is a brewery.
 
 - [Babbitt’s](/breweries/babbitt-s.html)
 - [Carleen](/breweries/carleen.html)
-- [Cricket Press](/breweries/cricket-press.html)
+- [Cricket Press](/other-places/cricket-press.html)
 - [Dogfish Inn](/breweries/dogfish-inn.html)

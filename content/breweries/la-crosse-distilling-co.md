@@ -20,8 +20,6 @@ We reached out to this brewery to request an elephant drawing. See the attached 
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [La Crosse Distilling Co Correspondence Part 1](la-crosse-distilling-co/instagram-1.html)

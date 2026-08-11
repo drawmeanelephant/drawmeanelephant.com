@@ -46,8 +46,6 @@ Great elephant without any of the warm and fuzzy, but that's all good. Looked li
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Night Shift Brewing Correspondence Part 1](night-shift-brewing/instagram-1.html)

@@ -59,8 +59,6 @@ This just had so many and I think the takeaway I got from those that saw them wa
 
 ## Satellites & Correspondence
 
-{{children}}
-
 ### Correspondence Links
 
 *   📁 [Outer Light Brewery Correspondence Part 1](outer-light-brewery/instagram-1.html)

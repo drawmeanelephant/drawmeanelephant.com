@@ -1,0 +1,22 @@
+---
+id: breweries/14er-brewing-company
+title: "14er Brewing Company"
+status: published
+tags: [brewery, "CO", scaffold]
+---
+
+# 14er Brewing Company
+
+> [!NOTE]
+> **Outreach Metadata**
+> * **Location:** Denver, CO 80205
+> * **Type:** Micro
+> * **Written:** 2019-08-29
+> * **Elephant Received:** Not recorded
+> * **Mail Status:** Not recorded
+
+This page is a scaffold for an outreach record. Correspondence, drawing scans, and notes can be added here as they are recovered.
+
+## Correspondence
+
+No correspondence archive has been attached yet.
