@@ -13,7 +13,7 @@ Built using **Boris**, the ultra-fast and strict static site compiler.
 We maintain a clean separation of the website's source material and the public production assets:
 
 *   **`main` Branch**: Contains the website's source content (all 900+ markdown files, local polaroid drawings, and assets), custom handcrafted theme layout/styles, and local compile binaries.
-*   **`gh-pages` Branch**: Contains the raw built static distribution (`dist/` output) containing only HTML/CSS and static images, served directly to the web.
+*   **`gh-pages` Branch**: GitHub Pages is also enabled for this repository and serves the root of this branch at `https://drawmeanelephant.github.io/drawmeanelephant.com/`. The automated Cloudflare Pages workflow described below does not update this branch.
 
 ### Folder Tour
 ```
@@ -81,13 +81,16 @@ Then visit `http://localhost:8000` in your browser.
 
 ***
 
-## 🚀 Deployment (GitHub Pages)
+## 🚀 Deployment (Cloudflare Pages)
 
-To publish changes directly to GitHub Pages, build the static site and push the compiled contents of the `dist/` folder directly to the `gh-pages` branch:
+The checked-in GitHub Actions workflow in `.github/workflows/deploy.yml` builds and deploys the site to the Cloudflare Pages project `drawmeanelephant`.
 
-```bash
-# Push built output to public hosting branch
-git subtree push --prefix dist origin gh-pages
-```
+The workflow runs when a commit is pushed to `main` or `master`, when a pull request targets either branch, or when someone starts it with the `workflow_dispatch` button in GitHub Actions. For each run, it checks out this repository on an Ubuntu 24.04 runner, builds Boris from the `afterparty` branch of `drawmeanelephant/boris` with Zig 0.16.0, and runs `./build.sh` to create the static site in `dist/`. The workflow then deploys `dist/` using Wrangler's `pages deploy` command.
+
+The separate `.github/workflows/ci.yml` workflow runs on pushes and pull requests targeting `main` or `master`. It performs the build and uploads `dist/` as the `site-dist` artifact; it does not deploy the site.
+
+The deploy job reads the `CLOUDFLARE_API_TOKEN` and `CLOUDFLARE_ACCOUNT_ID` GitHub Actions secrets. Make both secrets available to the workflow for deployments to succeed; their values are not stored in this repository.
+
+GitHub Pages is separately configured to serve the `gh-pages` branch from its root. The Cloudflare workflow does not push to or update that branch.
 
 *Enjoy exploring the elephants! 🐘*
